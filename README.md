@@ -17,3 +17,10 @@ Biscuit (British English) vs. cookie (American English):
 
 ## Часть 2 (*Sketch Engine*)
 ### Задание 1
+Три самых частотных модификатора существительного *question*:
+1) difficult
+2) important
+3) fundamental
+![](https://github.com/manastasia/hw6/blob/master/question.jpg)
+
+### Задание 2
