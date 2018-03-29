@@ -24,3 +24,11 @@ Biscuit (British English) vs. cookie (American English):
 ![](https://github.com/manastasia/hw6/blob/master/question.jpg)
 
 ### Задание 2
+Сравним употребление синонимичных глаголов *start* и *begin* с помощью Sketch diff и выясним, с какими дополнениями они могут использоваться. На снимке экрана зеленым- *begin*, красным- *start*.
+![](https://github.com/manastasia/hw6/blob/master/objects.jpg)
+Как видно из таблицы, с глаголом *begin* предпочтительнее употреблять такие дополнения, как *investigation* и *descent*, в то время как с глаголом *start*- *business* и *school*. При этом слова *family, engine, fire* и *point* употребляются исключительно с глаголом *start*. То же самое касается pronominal objects:
+![](https://github.com/manastasia/hw6/blob/master/pr_objects.jpg)
+
+Глаголы, употребляемые со словами *start* и *begin*:
+![](https://github.com/manastasia/hw6/blob/master/verbs.jpg)
+Из таблицы следует, что есть глаголы, употребляемые исключительно со словом *begin*: withdraw и pace. Также есть глаголы, более употребляемые в контексте с *begin* (understand, see), и употребляемые с *start* (think, look, come, do, get).
